@@ -4,7 +4,7 @@ This project aims to enhance network security by deploying and integrating a Pen
 # Installation
 
 
-**INSTALL URUNTU (LINUX OS) SYSTEM 
+__INSTALL URUNTU (LINUX OS) SYSTEM 
 
 
 •	Install Ubuntu on a dedicated machine or virtual machine. This will be used for Snort.
