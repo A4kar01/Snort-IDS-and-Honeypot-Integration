@@ -6,7 +6,7 @@ This project aims to enhance network security by deploying and integrating a Pen
 
 2. Kali Linux for Attack = [Link](https://www.kali.org/get-kali/#kali-installer-images)
 
-3. Ubuntu OS System for IDS with Snort and Kali Linux = [Link](https://ubuntu.com/download/desktop)
+3. Ubuntu OS System for IDS with Snort and Pentbox Honeypot = [Link](https://ubuntu.com/download/desktop)
 
 4. Two Routers for Internet Connection and create a Network Infrastruction
 
