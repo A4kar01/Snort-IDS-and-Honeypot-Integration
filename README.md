@@ -2,11 +2,11 @@
 This project aims to enhance network security by deploying and integrating a Pentbox honeypot with a Snort Intrusion Detection System (IDS). This combination will provide a proactive defense mechanism by attracting and analyzing attackers while keeping critical systems protected.
 
 # Installation
-1. Virtual Machiine = [Link](https://www.kali.org/get-kali/#kali-installer-images)
+1. Virtual Machiine = [Link](https://www.virtualbox.org/wiki/Downloads)
 
-2. Kali Linux for Attack
+2. Kali Linux for Attack = [Link](https://www.kali.org/get-kali/#kali-installer-images)
 
-3. Ubuntu OS System for IDS with Snort and Kali Linux
+3. Ubuntu OS System for IDS with Snort and Kali Linux = [Link](https://ubuntu.com/download/desktop)
 
 4. Two Routers for Internet Connection and create a Network Infrastruction
 
